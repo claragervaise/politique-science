@@ -11,7 +11,7 @@ const config = {
     FR: {
       short: `Clara Gervaise-Volaire est une chercheuse en sociologie
         spécialisée sur la notion d'exposome chimique, actuellement doctorante CNRS pour le projet ANR PREVENT (Prédire l’évolution et l’impact biologique de l’exposome océanique dans le contexte de la transition environnementale). Elle est affiliée au <a
-            href="https://umr-lisis.fr/membre/clara-gervaise-volaire/""
+            href="https://umr-lisis.fr/membre/clara-gervaise-volaire/"
             target="_blank">Laboratoire Interdisciplinaire
           Sciences
           Innovations Sociétés (LISIS)</a>,.`,
