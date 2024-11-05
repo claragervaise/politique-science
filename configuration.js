@@ -17,7 +17,6 @@ const config = {
           Innovations Sociétés (LISIS)</a>.`,
       long: "",
     },
-
     {
       label: "linked in",
       value: "profile",
