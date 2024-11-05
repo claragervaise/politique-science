@@ -14,7 +14,7 @@ const config = {
             href="https://umr-lisis.fr/membre/clara-gervaise-volaire/"
             target="_blank">Laboratoire Interdisciplinaire
           Sciences
-          Innovations Sociétés (LISIS)</a>,.`,
+          Innovations Sociétés (LISIS)</a>.`,
       long: "",
     },
  ,
