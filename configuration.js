@@ -1,52 +1,28 @@
 const config = {
-  name: "Guillaume Levrier",
+  name: "Clara Gervaise-Volaire",
   description: {
     EN: {
-      short: `Guillaume Levrier is a political scientist working on biotechnology, currently a CNRS postdoc for the
-        <a href="https://cordis.europa.eu/project/id/951393" target="_blank">Nanobubbles ERC grant</a>. He is affiliated
-        to the <a href="http://umr-lisis.fr/membre/guillaume-levrier/" target="_blank">Laboratoire Interdisciplinaire
-          Sciences Innovations Sociétés (LISIS)</a>, and is a research associate to <a
-            href="https://www.sciencespo.fr/cevipof/en/researcher/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> and to the French National Library (BnF). `,
+      short: `Clara Gervaise-Volaire is a sociologist working on the notion of chemical exposome, currently a CNRS PhD student for the
+      ANR PREVENT (Prédire l’évolution et l’impact biologique de l’exposome océanique dans le contexte de la transition environnementale). She is affiliated
+        to the <a href="https://umr-lisis.fr/membre/clara-gervaise-volaire/" target="_blank">Laboratoire Interdisciplinaire
+          Sciences Innovations Sociétés (LISIS)</a>. `,
       long: "",
     },
     FR: {
-      short: `Guillaume Levrier est un chercheur en sciences
-        politiques
-        spécialisé sur les biotechnologies, actuellement postdoc CNRS pour le <a
-          href="https://cordis.europa.eu/project/id/951393" target="_blank">projet
-          ERC Nanobubbles</a>. Il est affilié au <a
-            href="http://umr-lisis.fr/membre/guillaume-levrier/"
+      short: `Clara Gervaise-Volaire est une chercheuse en sociologie
+        spécialisée sur la notion d'exposome chimique, actuellement doctorante CNRS pour le projet ANR PREVENT. Elle est affiliée au <a
+            href="https://umr-lisis.fr/membre/clara-gervaise-volaire/""
             target="_blank">Laboratoire Interdisciplinaire
           Sciences
-          Innovations Sociétés (LISIS)</a>, est associé au <a
-            href="https://www.sciencespo.fr/cevipof/fr/chercheur/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> et à la Bibliothèque nationale de
-        France (BnF).`,
+          Innovations Sociétés (LISIS)</a>,.`,
       long: "",
     },
-  },
-  links: [
-    {
-      label: "twitter",
-      value: "@g_levrier",
-      url: "https://twitter.com/g_levrier",
-    },
-    {
-      label: "google scholar",
-      value: "profile",
-      url: "https://scholar.google.com/citations?user=IRiJFNMAAAAJ&hl=en",
-    },
-    {
-      label: "pubpeer",
-      value: "profile",
-      url: "https://pubpeer.com/search?q=guillaume+levrier",
-    },
+ ,
     {
       label: "linked in",
       value: "profile",
-      url: "https://www.linkedin.com/in/guillaume-levrier-phd-89156838/",
+      url: "https://www.linkedin.com/in/clara-g-135a87177/",
     },
   ],
-  email: { name: "guillaume.levrier", domain: "politique.science" },
+  email: { name: "claragervaise", domain: "politique.science" },
 };
