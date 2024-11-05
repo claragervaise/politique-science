@@ -25,5 +25,5 @@ const config = {
       url: "https://www.linkedin.com/in/clara-g-135a87177/",
     },
   ],
-  email: { name: "claragervaise", domain: "politique.science" },
+  email: { name: "clara.gervaisevolaire", domain: "sciencespo.fr" },
 };
