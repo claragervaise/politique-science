@@ -24,7 +24,6 @@ const config = {
       value: "Profile",
       url: "https://www.linkedin.com/in/clara-g-135a87177/",
     },
-       links:[
     {
       label: "ResearchGate",
       value: "profile",
